@@ -2,6 +2,7 @@ import sys
 from PyQt5.QtWidgets import QApplication, QLabel, QMainWindow
 from PyQt5.QtCore import Qt
 
+
 class testwindow(QMainWindow):
 
     def __init__(self, *args, **kwargs):
@@ -11,9 +12,12 @@ class testwindow(QMainWindow):
         label.setAlignment(Qt.AlignCenter)
         self.setCentralWidget(label)
 
-app = QApplication(sys.argv)
 
-window = testwindow()
-window.show()
+def window():
+    app = QApplication(sys.argv)
+    win = testwindow()
+    win.show()
+    sys.exit(app.exec_())
 
-app.exec_()
+
+window()

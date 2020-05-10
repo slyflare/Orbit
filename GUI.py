@@ -7,8 +7,8 @@ class testwindow(QMainWindow):
 
     def __init__(self, *args, **kwargs):
         super(testwindow, self).__init__(*args,**kwargs)
-        self.setWindowTitle("test string")
-        label = QLabel('bubjabksdjkabsdjkb')
+        self.setWindowTitle("wha-")
+        label = QLabel('KORE GA REQUIEM DA')
         label.setAlignment(Qt.AlignCenter)
         self.setCentralWidget(label)
 
@@ -16,6 +16,7 @@ class testwindow(QMainWindow):
 def window():
     app = QApplication(sys.argv)
     win = testwindow()
+    win.setGeometry(0,0,500,500)
     win.show()
     sys.exit(app.exec_())
 

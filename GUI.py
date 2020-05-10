@@ -16,7 +16,7 @@ class testwindow(QMainWindow):
 def window():
     app = QApplication(sys.argv)
     win = testwindow()
-    win.setGeometry(0,0,500,500)
+    win.setGeometry(0, 0, 500, 500)
     win.show()
     sys.exit(app.exec_())
 

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1956fb83-7bea-4ab5-8708-41d664c3b8fc" name="Default Changelist" comment="test">
+    <list default="true" id="1956fb83-7bea-4ab5-8708-41d664c3b8fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588879976503</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1589070457886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589070457887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,26 +147,26 @@
       <screen x="0" y="22" width="1280" height="778" />
     </state>
     <state x="240" y="76" key="#Notifications/0.22.1280.778@0.22.1280.778" timestamp="1589057774347" />
-    <state x="252" y="22" width="752" height="778" key="CommitChangelistDialog2" timestamp="1588881559559">
+    <state x="252" y="22" width="752" height="778" key="CommitChangelistDialog2" timestamp="1589070457553">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
-    <state x="252" y="22" width="752" height="778" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1588881559559" />
-    <state width="1259" height="198" key="GridCell.Tab.0.bottom" timestamp="1589070445341">
+    <state x="252" y="22" width="752" height="778" key="CommitChangelistDialog2/0.22.1280.778@0.22.1280.778" timestamp="1589070457553" />
+    <state width="1259" height="198" key="GridCell.Tab.0.bottom" timestamp="1589131840111">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
-    <state width="1259" height="198" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1589070445341" />
-    <state width="1259" height="198" key="GridCell.Tab.0.center" timestamp="1589070445340">
+    <state width="1259" height="198" key="GridCell.Tab.0.bottom/0.22.1280.778@0.22.1280.778" timestamp="1589131840111" />
+    <state width="1259" height="198" key="GridCell.Tab.0.center" timestamp="1589131840110">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
-    <state width="1259" height="198" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1589070445340" />
-    <state width="1259" height="198" key="GridCell.Tab.0.left" timestamp="1589070445340">
+    <state width="1259" height="198" key="GridCell.Tab.0.center/0.22.1280.778@0.22.1280.778" timestamp="1589131840110" />
+    <state width="1259" height="198" key="GridCell.Tab.0.left" timestamp="1589131840109">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
-    <state width="1259" height="198" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1589070445340" />
-    <state width="1259" height="198" key="GridCell.Tab.0.right" timestamp="1589070445341">
+    <state width="1259" height="198" key="GridCell.Tab.0.left/0.22.1280.778@0.22.1280.778" timestamp="1589131840109" />
+    <state width="1259" height="198" key="GridCell.Tab.0.right" timestamp="1589131840110">
       <screen x="0" y="22" width="1280" height="778" />
     </state>
-    <state width="1259" height="198" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1589070445341" />
+    <state width="1259" height="198" key="GridCell.Tab.0.right/0.22.1280.778@0.22.1280.778" timestamp="1589131840110" />
     <state x="128" y="89" key="MergeDialog" timestamp="1589057443831">
       <screen x="0" y="22" width="1280" height="778" />
     </state>

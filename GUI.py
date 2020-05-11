@@ -9,9 +9,9 @@ class testwindow(QMainWindow):
         super(testwindow, self).__init__(*args,**kwargs)
 
         self.setWindowTitle('Test')
-        self.setGeometry(0,0,200,500)
+        self.setGeometry(0,0,500,500)
         label = QLabel('Test', self)
-        label.setAlignment(Qt.AlignCenter)
+        label.setAlignment(Qt.AlignHCenter)
         label.setStyleSheet('border:2px solid black')
 
 

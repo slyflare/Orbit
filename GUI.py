@@ -25,7 +25,6 @@ class testwindow(QMainWindow):
         self.label.setText('wha-')
 
 
-
 def window():
     app = QApplication(sys.argv)
     win = testwindow()

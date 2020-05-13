@@ -22,7 +22,8 @@ class testwindow(QMainWindow):
         self.button.clicked.connect(self.clicked)
 
     def clicked(self):
-        self.label.setText('wha-')
+        self.label.setText('wha--______------------___---_--_-----__-_-_-_-_-_--_------')
+        self.label.adjustSize()
 
 
 def window():

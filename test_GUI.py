@@ -4,6 +4,20 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 
 
+class popupwindow(QWidget):
+    def __init__(self):
+        super(popupwindow).__init__()
+        self.initui()
+        self.setWindowTitle('Popup')
+        self.setGeometry(0, 0, 250, 250)
+
+    def initui(self):
+        self.label = QLabel('Test', self)
+        self.label.setAlignment(Qt.AlignHCenter)
+        self.label.setStyleSheet('border:2px solid black')
+        self.label.setGeometry(200, 200, 100, 50)
+
+
 class testwindow(QMainWindow):
     def __init__(self):
         super(testwindow, self).__init__()
@@ -27,7 +41,7 @@ class testwindow(QMainWindow):
         self.label.adjustSize()
 
 
-def window():
+def window(args):
     app = QApplication(sys.argv)
     win = testwindow()
     win.show()

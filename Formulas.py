@@ -40,4 +40,4 @@ def a_node() -> float:
     """ascending node"""
 
 def d_node -> float:
-    
+    """descending node"""

@@ -30,4 +30,7 @@ def period(M:float, r:float) -> float:
     p = math.sqrt(p2)
     return p
 
+def periapsis() -> float:
 
+def apoapsis() -> float:
+    

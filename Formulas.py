@@ -35,3 +35,9 @@ def periapsis() -> float:
     
 def apoapsis() -> float:
     """apoapsis = furthest point to the orbit"""
+    
+def a_node() -> float:
+    """ascending node"""
+
+def d_node -> float:
+    

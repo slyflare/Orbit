@@ -31,6 +31,7 @@ def period(M:float, r:float) -> float:
     return p
 
 def periapsis() -> float:
-
-def apoapsis() -> float:
+    """periapsis = closes point to the orbit"""
     
+def apoapsis() -> float:
+    """apoapsis = furthest point to the orbit"""

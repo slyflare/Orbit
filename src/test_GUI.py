@@ -16,6 +16,7 @@ class popupwindow(QWidget):
         self.label.setAlignment(Qt.AlignHCenter)
         self.label.setStyleSheet('border:2px solid black')
         self.label.setGeometry(200, 200, 100, 50)
+        self.button.setStyleSheet('border:2px solid red')
 
 
 class testwindow(QMainWindow):
